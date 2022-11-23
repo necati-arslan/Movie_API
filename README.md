@@ -6,7 +6,7 @@
 
 ## POST movies/
 
-## POST movies/:id
+## DELETE movies/:id
 
 
 
