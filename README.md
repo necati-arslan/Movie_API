@@ -1,3 +1,12 @@
 # Movie_API
 
-##http://localhost:3000/movies/
+## GET movies/
+
+## GET movies/:id
+
+## POST movies/
+
+## POST movies/:id
+
+
+
